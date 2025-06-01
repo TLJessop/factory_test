@@ -1,0 +1,2 @@
+Faker>=18.0
+ttkthemes>=3.2.2
